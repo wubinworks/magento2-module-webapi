@@ -1,0 +1,3 @@
+"$encodedBody has invalid data type "%s". String is expected.","$encodedBodyのデータ型"%s"が不正。期待の型はString。"
+"POST body is empty.","POST bodyは空。"
+"POST body is empty.","POST bodyが不正。"
